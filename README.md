@@ -1,4 +1,3 @@
-0. The enrollment works 100% but for me it didn't message me when it executed
 
 1. Please look at the file and replace the variables with your info as I wrote
 
